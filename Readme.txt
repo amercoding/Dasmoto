@@ -1,0 +1,1 @@
+This is a simple website for a fictional arts and crafts store, based on the provided spec sheet.
